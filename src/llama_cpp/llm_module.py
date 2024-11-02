@@ -1,6 +1,8 @@
-from llama_cpp import Llama
+from llm_module_base import LLMModuleBase 
+from llama_cpp        import Llama
+from common.llm_module_base import LLMModuleBase 
 
-class LLMModule:
+class LLMModule(LLMModuleBase):
   def __init__(self, repo_id, filename):
     self.llm = Llama.from_pretrained(
         repo_id=repo_id,

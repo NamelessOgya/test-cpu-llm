@@ -1,6 +1,8 @@
 import sys
 sys.path.append('/content/tmp/BitNet')
 
+from llm_module_base import LLMModuleBase 
+
 import subprocess
 
 def run_command(command):
@@ -29,7 +31,7 @@ def run_command(command):
       print("エラーが発生しました。")
     return process.returncode, ''.join(output)  # 戻り値をタプルとして返す
 
-class LLMModule:
+class LLMModule(LLMModuleBase):
   def __init__(self, repo_id, filename):
     print("llm module of bitnet")
     try:
