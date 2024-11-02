@@ -11,10 +11,15 @@ class LLMModule(LLMModuleBase):
     )
 
   def infer(self, prompt):
-
-    return self.llm(
-      prompt,
-      max_tokens=32,
+    llm_input = "Q:" + prompt + "A:"
+    
+    responce = self.llm(
+      llm_input,
+      max_tokens=1000,
       stop=["Q:", "\n"],
       echo=True
     )["choices"][0]["text"]
+
+    # Q:質問文 A:返答の形で出力してくるので、返答部分のみ成形
+    out = responce.split("A:")[1]
+    return out
