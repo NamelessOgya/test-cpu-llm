@@ -1,6 +1,6 @@
 from llm_module_base import LLMModuleBase 
 from llama_cpp        import Llama
-from common.llm_module_base import LLMModuleBase 
+from llm_module_base import LLMModuleBase 
 
 class LLMModule(LLMModuleBase):
   def __init__(self, repo_id, filename):
@@ -17,4 +17,4 @@ class LLMModule(LLMModuleBase):
       max_tokens=32,
       stop=["Q:", "\n"],
       echo=True
-    )
+    )["choices"][0]["text"]
