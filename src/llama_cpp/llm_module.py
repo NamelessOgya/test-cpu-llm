@@ -21,5 +21,5 @@ class LLMModule(LLMModuleBase):
     )["choices"][0]["text"]
 
     # Q:質問文 A:返答の形で出力してくるので、返答部分のみ成形
-    out = responce.split("A:")[1]
+    out = responce
     return out
