@@ -10,7 +10,7 @@ class LLMModule(LLMModuleBase):
         n_ctx = 4096
     )
 
-  def infer(self, prompt):
+  def infer(self, prompt, temperature=0.3):
 
     out = self.llm.create_chat_completion(
       messages=[
@@ -23,7 +23,7 @@ class LLMModule(LLMModuleBase):
       response_format={
           "type": "json_object",
       },
-      temperature=0.7,
+      temperature=temperature,
       max_tokens=3000
     )
 
