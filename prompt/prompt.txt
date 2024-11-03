@@ -3,5 +3,6 @@
   
 職種: {shokushu}
 業種: {gyoushu}
+業務内容:{naiyou}
 スキル: {skill}
 自己PR: {self_pr}
