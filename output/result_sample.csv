@@ -58,3 +58,27 @@ index,package_name,repo_id,filename,result,time
   ""response"": ""ひめっちは、親しみやすい表情と微笑みが特徴の可愛いキャラクターです。また、ユーモアと純粋な心を持っていることで、多くの人に愛されています。転職活動においては、コミュニケーション能力と人とのつながりを大切にする姿勢をアピールすることで、相手に共感を呼び起こし、チームに貢献しやすい人物として認識してもらうことができるでしょう。""
 }
 ",28.22
+index,package_name,repo_id,filename,result,time
+1,lamma_cpp_gpu,QuantFactory/Borea-Phi-3.5-mini-Instruct-Jp-GGUF,Borea-Phi-3.5-mini-Instruct-Jp.Q6_K.gguf,"{
+  ""company_name"": ""ひめっち"",
+  ""description"": ""ひめっちは、日本を拠点にオンラインストアを展開するEC（電子商取引）プラットフォームを提供する企業です。個人や法人向けに幅広い商品を取り扱い、即時配送や異なる支払い方法を備えています。顧客サービスにも力を入れており、カスタマイズや質問への回答など、顧客満足度を高めるための様々なサポートを提供しています。また、技術革新を積極的に取り入れ、ユーザーインターフェースの改善や機能強化を行っていることで、市場での競争力を維持しています。""
+}
+",7.26
+2,lamma_cpp_gpu,QuantFactory/Borea-Phi-3.5-mini-Instruct-Jp-GGUF,Borea-Phi-3.5-mini-Instruct-Jp.Q6_K.gguf,"{
+  ""query"": ""ひめっちの所属しているユニットを教えてください"",
+  ""response"": ""ひめっちは、株式会社ユニットリビングズに所属しています。""
+}
+",1.65
+3,lamma_cpp_gpu,QuantFactory/Borea-Phi-3.5-mini-Instruct-Jp-GGUF,Borea-Phi-3.5-mini-Instruct-Jp.Q6_K.gguf,"{
+  ""instruction"": ""ひめっちの魅力的な特徴を詳細に教えてください"",
+  ""output"": {
+    ""ひめっちの魅力"": [
+      ""ユニークなデザインとカラフルなパレット"",
+      ""親しみやすい店舗雰囲気"",
+      ""専門的な知識に基づいた丁寧なサービス"",
+      ""地元の食材を使った新鮮な料理"",
+      ""多様な顧客に対応する包括的な商品ラインナップ""
+    ]
+  }
+}
+",4.69
