@@ -13,4 +13,5 @@ def get_date_str():
 
   return date_str
 
-if 
+if __name__ == "__main__":
+  print(get_data_str())
