@@ -7,7 +7,8 @@ class LLMModule(LLMModuleBase):
         repo_id=repo_id,
         filename=filename,
         verbose=False,
-        n_ctx = 4096
+        n_ctx = 4096,
+        n_gpu_layers=30
     )
 
   def infer(self, prompt, temperature=0.3):

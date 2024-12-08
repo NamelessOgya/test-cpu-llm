@@ -1,0 +1,29 @@
+index,package_name,repo_id,filename,result,time
+1,lamma_cpp_gpu,QuantFactory/Borea-Phi-3.5-mini-Instruct-Jp-GGUF,Borea-Phi-3.5-mini-Instruct-Jp.Q6_K.gguf,"{
+  ""company_name"": ""ひめっち"",
+  ""description"": ""ひめっちは、日本を拠点に革新的なデジタルサービスとソリューションを提供する企業です。テクノロジーとユーザー中心のアプローチを組み合わせ、個人や企業の生産性と効率を向上させる目的で、さまざまな業界に対してソフトウェア開発、クラウドサービス、AI技術を活用したサービスを展開しています。また、顧客のニーズに合わせたカスタマイズ可能なソリューションを提供し、継続的な改善と革新により、信頼性と実績を重視しています。""
+}",47.25
+2,lamma_cpp_gpu,QuantFactory/Borea-Phi-3.5-mini-Instruct-Jp-GGUF,Borea-Phi-3.5-mini-Instruct-Jp.Q6_K.gguf,"{
+  ""query"": ""ひめっちの所属しているユニットを教えてください"",
+  ""response"": ""ひめっちは、日本の音楽ユニットであるザ・ヒメチ。""
+}
+",10.32
+3,lamma_cpp_gpu,QuantFactory/Borea-Phi-3.5-mini-Instruct-Jp-GGUF,Borea-Phi-3.5-mini-Instruct-Jp.Q6_K.gguf,"{
+  ""response"": ""ひめっちには、細やかな心や親しみやすさ、そして優しさが際立っています。これらの性質は、彼女のコミュニケーション能力やチームワークにおいて非常に価値があります。彼女の特徴を活かし、彼女の強みを職業的な成長やキャリアプランにどのように組み込むかを検討することが、転職支援において重要です。""
+}
+",27.28
+index,package_name,repo_id,filename,result,time
+index,package_name,repo_id,filename,result,time
+1,lamma_cpp_gpu,QuantFactory/Borea-Phi-3.5-mini-Instruct-Jp-GGUF,Borea-Phi-3.5-mini-Instruct-Jp.Q6_K.gguf,"{
+  ""company_name"": ""ひめっち"",
+  ""description"": ""ひめっちは、日本を拠点に革新的なデジタルサービスとソリューションを提供する企業です。テクノロジーとユーザー中心のアプローチを組み合わせ、個人や企業の生産性と効率を向上させる目的で、さまざまな業界に対してソフトウェア開発、クラウドサービス、AI技術を活用したサービスを展開しています。また、顧客のニーズに合わせたカスタマイズ可能なソリューションを提供し、継続的な改善と革新により、信頼性と実績を重視しています。""
+}",47.75
+2,lamma_cpp_gpu,QuantFactory/Borea-Phi-3.5-mini-Instruct-Jp-GGUF,Borea-Phi-3.5-mini-Instruct-Jp.Q6_K.gguf,"{
+  ""query"": ""ひめっちの所属しているユニットを教えてください"",
+  ""response"": ""ひめっちは、日本の音楽ユニットであるザ・ヒメチ。""
+}
+",10.36
+3,lamma_cpp_gpu,QuantFactory/Borea-Phi-3.5-mini-Instruct-Jp-GGUF,Borea-Phi-3.5-mini-Instruct-Jp.Q6_K.gguf,"{
+  ""response"": ""ひめっちには、細やかな心や親しみやすさ、そして優しさが際立っています。これらの性質は、彼女のコミュニケーション能力やチームワークにおいて非常に価値があります。彼女の特徴を活かし、彼女の強みを職業的な成長やキャリアプランにどのように組み込むかを検討することが、転職支援において重要です。""
+}
+",27.67
