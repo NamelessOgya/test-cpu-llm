@@ -27,3 +27,34 @@ index,package_name,repo_id,filename,result,time
   ""response"": ""ひめっちには、細やかな心や親しみやすさ、そして優しさが際立っています。これらの性質は、彼女のコミュニケーション能力やチームワークにおいて非常に価値があります。彼女の特徴を活かし、彼女の強みを職業的な成長やキャリアプランにどのように組み込むかを検討することが、転職支援において重要です。""
 }
 ",27.67
+index,package_name,repo_id,filename,result,time
+index,package_name,repo_id,filename,result,time
+1,lamma_cpp_gpu,QuantFactory/Borea-Phi-3.5-mini-Instruct-Jp-GGUF,Borea-Phi-3.5-mini-Instruct-Jp.Q6_K.gguf,"{
+  ""company_name"": ""ひめっち"",
+  ""description"": ""ひめっちは、日本を拠点に展開する、スタートアップ企業で、ユーザー中心のサービスと技術を提供しています。特に、AIやデータ分析を活用したソリューションを専門とし、企業の効率化や革新を支援することで知られています。以下は主要な情報です：""
+}
+",42.42
+2,lamma_cpp_gpu,QuantFactory/Borea-Phi-3.5-mini-Instruct-Jp-GGUF,Borea-Phi-3.5-mini-Instruct-Jp.Q6_K.gguf,"{
+  ""query"": ""ひめっちの所属しているユニットを教えてください"",
+  ""response"": ""ひめっちは、日本のフリーランスエンジニアリングサービスの会社である株式会社ヒメツキエンジニアリングに所属しています。""
+}
+",14.19
+3,lamma_cpp_gpu,QuantFactory/Borea-Phi-3.5-mini-Instruct-Jp-GGUF,Borea-Phi-3.5-mini-Instruct-Jp.Q6_K.gguf,"{
+  ""response"": ""ひめっちは、親しみやすい表情と微笑みが特徴の可愛いキャラクターです。また、ユーモアと純粋な心を持っていることで、多くの人に愛されています。転職活動においては、コミュニケーション能力と人とのつながりを大切にする姿勢をアピールすることで、相手に共感を呼び起こし、チームに貢献しやすい人物として認識してもらうことができるでしょう。""
+}
+",27.30
+index,package_name,repo_id,filename,result,time
+1,lamma_cpp_gpu,QuantFactory/Borea-Phi-3.5-mini-Instruct-Jp-GGUF,Borea-Phi-3.5-mini-Instruct-Jp.Q6_K.gguf,"{
+  ""company_name"": ""ひめっち"",
+  ""description"": ""ひめっちは、日本を拠点に展開する、スタートアップ企業で、ユーザー中心のサービスと技術を提供しています。特に、AIやデータ分析を活用したソリューションを専門とし、企業の効率化や革新を支援することで知られています。以下は主要な情報です：""
+}
+",42.30
+2,lamma_cpp_gpu,QuantFactory/Borea-Phi-3.5-mini-Instruct-Jp-GGUF,Borea-Phi-3.5-mini-Instruct-Jp.Q6_K.gguf,"{
+  ""query"": ""ひめっちの所属しているユニットを教えてください"",
+  ""response"": ""ひめっちは、日本のフリーランスエンジニアリングサービスの会社である株式会社ヒメツキエンジニアリングに所属しています。""
+}
+",14.27
+3,lamma_cpp_gpu,QuantFactory/Borea-Phi-3.5-mini-Instruct-Jp-GGUF,Borea-Phi-3.5-mini-Instruct-Jp.Q6_K.gguf,"{
+  ""response"": ""ひめっちは、親しみやすい表情と微笑みが特徴の可愛いキャラクターです。また、ユーモアと純粋な心を持っていることで、多くの人に愛されています。転職活動においては、コミュニケーション能力と人とのつながりを大切にする姿勢をアピールすることで、相手に共感を呼び起こし、チームに貢献しやすい人物として認識してもらうことができるでしょう。""
+}
+",28.22
